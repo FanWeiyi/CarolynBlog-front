@@ -1,7 +1,7 @@
 # 基于 AI 助手的个人博客系统-前端
 
 本项目是AI驱动型个人博客系统。
-后端地址：
+后端地址：https://github.com/FanWeiyi/carolynbackend
 
 ## 🔧 技术栈
 
