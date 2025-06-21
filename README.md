@@ -8,6 +8,7 @@
 - **前端**：Vue3 + TypeScript + Pinia + Vite
 - **后端**：Spring Boot + MySQL + DeepSeek API + Docker
 - **AI 功能**：集成 DeepSeek API，智能推荐相关文章或总结
+- **开发环境**：vscode
 
 ## 📦 功能模块
 
